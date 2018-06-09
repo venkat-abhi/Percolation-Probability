@@ -8,3 +8,11 @@ This program works by creating two virtual top and bottom sites and linking them
 ![](Percoalation_model.png)
 
 Image source: Algorithms (Robert Sedgewick, Kevin Wayne)
+
+If you want to view all the matrices being generated, uncomment the viewmatrix() line in Percolation::stats()
+
+![](view_matrix.png)
+
+# output
+
+![](matrix_output.png)
