@@ -14,7 +14,7 @@ public:
 	    top = 2;
 	    bottom = 11;
     }
-	int stats();                                       //Checks for percolation 1000 times. 
+	int stats();		//Checks for percolation 1000 times. 
 	int matrixdetails();
 	int percolates();
 	int matrixgen();
