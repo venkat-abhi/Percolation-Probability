@@ -9,6 +9,5 @@ int main() {
 	srand((int)time(0));
 	Percolation test;
 	test.stats();
-	while (true);
 	return 0;
 }
