@@ -102,7 +102,6 @@ int Percolation::cluster() {
 					changes = true;
 				}
 			}
-
 		}
 
 		for (int i = 1; i<size - 1; i++) {                  //checks right border
@@ -129,7 +128,6 @@ int Percolation::cluster() {
 					bottom = top;
 					return 0;
 				}
-
 			}
 		}
 		if (changes == true) {
